@@ -353,7 +353,7 @@ let questions1 = [
 
 // Form Fragen && Deutsch-Arabisch Fragen
 
-let questions2 = [
+let questions = [
   {
     numb: 1,
     question: "ما هو عنصر <form> في HTML؟",
